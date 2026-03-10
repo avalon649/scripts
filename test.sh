@@ -2,4 +2,4 @@
 
 echo "Hello There"
 
-echo "--------------------------------------"
+echo "This is a test script to demonstrate how to run a bash script in a containerized environment."
